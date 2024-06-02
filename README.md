@@ -1,1 +1,1 @@
-***[2DwebGL](https://levvolkov.github.io/2DwebGL/)***
+***[2D WebGL](https://levvolkov.github.io/2DwebGL/)***
